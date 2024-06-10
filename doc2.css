@@ -1,0 +1,35 @@
+div{
+    height:100%;
+    width:100%;
+    text-align: center;
+    color: aqua;
+    background-color: antiquewhite;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+   justify-items: centre;
+   
+   
+    
+
+    
+}
+label{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.button{
+    color: blueviolet;
+    font-size: small;
+    font-style: italic;
+    width: 50px;
+    height: 20px;
+    background-color:antiquewhite;
+    display: none;
+
+
+}
+label{
+    color:black;
+}
